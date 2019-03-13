@@ -14,6 +14,7 @@ namespace Tailwind.Traders.Web
     }
 
     public class CartSettings {
+        //adding my cool code changes
         public string AuthKey {get; set;}
         public string ContainerId {get; set;}
         public string DatabaseId {get; set;}
